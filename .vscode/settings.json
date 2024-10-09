@@ -1,0 +1,39 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.referencedLibraries": [
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-openal-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-app-1.86.11.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-assimp-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-binding-1.86.11.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-openal-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-openal.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-app-1.86.11-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-nfd-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-stb-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\joml-1.10.5-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-opengl.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-lwjgl3-1.86.11-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-glfw-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-binding-1.86.11-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-opengl-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-glfw-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-nfd-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\joml-1.10.5.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-lwjgl3-1.86.11.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-opengl-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-assimp.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-glfw.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-assimp-javadoc.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-nfd.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-stb-natives-windows.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\JavaDisplay.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\imgui\\imgui-app-1.86.11-all.jar",
+        "d:\\Programs\\github\\GML-AB-Testing\\lib\\display\\lwjgl\\lwjgl-stb.jar"
+    ]
+}
